@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "com.divyam.nothingchargingcompanion.app-merged_res-28:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.divyam.nothingchargingcompanion.app-main-30:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.divyam.nothingchargingcompanion.app-merged_res-28:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "com.divyam.nothingchargingcompanion.app-main-30:/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "com.divyam.nothingchargingcompanion.app-merged_res-28:/drawable_stat_sys_battery_charge.xml.flat",
+        "source": "com.divyam.nothingchargingcompanion.app-main-30:/drawable/stat_sys_battery_charge.xml"
+    }
+]

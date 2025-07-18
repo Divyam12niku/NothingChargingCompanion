@@ -1,0 +1,4 @@
+R_DEF: Internal format may change without notice
+local
+drawable stat_sys_battery_charge
+mipmap ic_launcher
